@@ -34,7 +34,7 @@ export default function InsertProduct() {
         setError("");
 
         try {
-            const res = await fetch("http://localhost:3001/insertproduct", {
+            const res = await fetch("https://inventory-management-system-mern-1.onrender.com/insertproduct", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
