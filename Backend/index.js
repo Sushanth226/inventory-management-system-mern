@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const connectToMongo = require('./db')
 connectToMongo();
 
@@ -15,5 +17,3 @@ app.use(router);
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
-
-
