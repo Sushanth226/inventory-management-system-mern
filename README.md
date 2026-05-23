@@ -569,6 +569,6 @@ MIT License - Feel free to use this project for learning!
 
 **[View on GitHub](https://github.com/Sushanth226/inventory-management-system-mern)**
 
-Made with ❤️ by Sushanth Yadav
+Made with ❤️ by Suru Sushanth Sourya
 
 </div>
